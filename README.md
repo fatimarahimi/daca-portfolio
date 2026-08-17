@@ -1,7 +1,7 @@
 # DACA Portfolio — Fatima Rahimi
 
 ## About me
-[2-3 sentences: your background and why you joined DACA]
+I am a Product Manager who wish to become an extraordinary Product Manager by adding Data Analysis super power to my skillset.
 
 ## Goal
 Build practical data-analysis skills in SQL, Python and visualisation, and create a professional portfolio.
