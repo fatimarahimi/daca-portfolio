@@ -39,7 +39,6 @@ FROM customers;
 
 -- ============================================================
 -- SUMMARY
--- ============================================================
 -- I investigated the customers table. I found 3,150 customers across
 -- what should be 12 cities, but inconsistent capitalization inflated
 -- that to 54 distinct stored values. 380 customers (12%) are missing
@@ -52,3 +51,6 @@ FROM customers;
 -- unreliable, and outreach campaigns would miss over 1 in 10
 -- customers due to missing emails — while duplicate customer records
 -- risk inflating customer counts and skewing loyalty/marketing metrics.
+
+
+
