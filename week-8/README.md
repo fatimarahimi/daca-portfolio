@@ -30,6 +30,16 @@ python week-8/individual/pipeline.py
 3. Copy `.env.example` → `.env` and add your Supabase URL and key
 4. `python week-8/individual/pipeline.py`
 
+## Output
+![Weekly revenue chart](individual/images/weekly_revenue.png)
+*Weekly revenue across 183 weeks — generated automatically in 2.5 seconds.*
+
+## How to run
+1. Clone the repo
+2. `pip install pandas requests plotly python-dotenv`
+3. Copy `.env.example` → `.env` and add your Supabase URL and key
+4. `python week-8/individual/pipeline.py`
+
 ## My role
 Group work this week – I built all four modules (Roles A–D) end to end.
 
